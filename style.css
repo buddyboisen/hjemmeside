@@ -1,0 +1,63 @@
+.toptext {
+  text-align: center;
+}
+.petit {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  border-width: 5px;
+  border-color: blue;
+  border-style: solid;
+  width: 500px;
+}
+.youtube {
+  width: 400px;
+  height: 100px;
+  color: white;
+  background-color: red;
+}
+
+.roblox {
+  width: 400px;
+  height: 100px;
+  color: white;
+  background-color: gray;
+}
+
+.google {
+  width: 400px;
+  height: 100px;
+  color: red;
+  background-color: yellow;
+}
+
+.clickspeed {
+  width: 400px;
+  height: 100px;
+  color:black;
+  background-color: gray;
+}
+
+
+
+.bg {
+  background-image: url("https://www.hvitserk.no/files/crops/desktop.ecb72018.magnus_hendis_ama_dablam_2014_14.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.knapper {
+  display: inline;
+  text-align: center;
+}
+.blue {
+  color: blue;
+}
+.red {
+  color:red;
+}
+
+.white {
+  color: white;
+}
